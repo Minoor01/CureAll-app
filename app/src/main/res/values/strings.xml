@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CureAll</string>
+    <string name="enter_email">Email</string>
 </resources>
